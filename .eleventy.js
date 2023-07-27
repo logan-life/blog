@@ -33,7 +33,7 @@ module.exports = function(eleventyConfig) {
   /*===================================================*/
   /* files that need to be copied to the build folder  */
   /*===================================================*/
-  eleventyConfig.addPassthroughCopy('./src/assets/social-image.jpg')
+  eleventyConfig.addPassthroughCopy('./src/assets/images/social-image.jpg')
   eleventyConfig.addPassthroughCopy('./src/assets/icons')
   eleventyConfig.addPassthroughCopy('./src/assets/sprite.svg')
   eleventyConfig.addPassthroughCopy({

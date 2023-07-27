@@ -1,12 +1,12 @@
 {
-  "title": "Eleventy Not so minimal blog starter",
+  "title": "Logan Ayliffe",
   "url": "https://eleventy-not-so-minimal-blog-starter.netlify.app",
   "language": "en",
-  "description": "Build your own website + blog with the 'not so minimal blog starter' which uses the Eleventy static site generator.",
+  "description": "Exploring ideas and sharing projects related to the web, climate change, neurodiversity, immigrant life, and more.",
   "author": {
-    "name": "firstname lastname",
-    "email": "hello@blog.com"
+    "name": "Logan Ayliffe",
+    "email": "lmayliffe@gmail.com"
   },
-  "image": "/assets/social-image.jpg",
+  "image": "/assets/images/social-image.jpg",
   "feedUrl": "https://eleventy-not-so-minimal-blog-starter.netlify.app/feed.xml"
 }

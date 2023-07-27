@@ -5,25 +5,11 @@ eleventyNavigation:
   order: 1
 ---
 
-# Welcome
-This starter will help you build a relatively simple blog with a few key features, while using the Eleventy static site generator.
+# Hi, I'm Logan Ayliffe
 
-This eleventy starter already includes:
-- Basic site navigation with eleventy-navigation
-- Blog categories & category based navigation
-- Image optimisation with Eleventy-img
-- SVG icons with svg-icon-sprite
-- SEO (sitemap, metadata, robots.txt)
-- RSS feed
-- Luxon for handling dates & times
-- A few basic Eleventy configurations, filters and shortcodes
-- Nunjucks templates
-- Sass & the necessary scripts to compile Sass
+I’m a software engineer currently based in the Netherlands. I’m passionate about dedicating my time and energy to improving the human condition.
 
-<br>
+I’m especially interested in driving technical solutions to our climate crisis and elevating human welfare through social justice.
+<br><br><br>
 
-You can find the <a href="https://github.com/Mangamaui/eleventy-not-so-minimal-blog-starter" target="_blank">source code on GitHub</a>.
-
-<br><br>
-
-If the listed setup is not what you require, you might want to check out one of the many other Eleveny starters, which can be found here: [Eleventy Starter Projects](https://www.11ty.dev/docs/starter/).
+{% image {src: "src/assets/images/homepage-logan.png", alt: "A sunny selfie of a smiling Logan in a black knit cap and grey hoodie with green grass and a blue lake in the background", className: "image", widths: [300, 600] } %}

@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-not-so-minimal-blog-starter",
+  "name": "logan-ayliffe-blog",
   "version": "1.0.0",
-  "description": "A not so minimal starter for building a website + blog using the Eleventy static site generator.",
+  "description": "A blog about web development, design, and other things I find interesting.",
   "main": "index.md",
   "scripts": {
     "generate:sprite": "svg-icon-generate --folder=src/assets/icons --output=src/assets/sprite.svg",
@@ -14,8 +14,8 @@
     "debug": "DEBUG=* npx eleventy"
   },
   "author": {
-    "name": "Claudia Reynders",
-    "url": "https://twitter.com/claudia_rndrs"
+    "name": "Logan Ayliffe",
+    "url": "https://hachyderm.io/@logan"
   },
   "license": "MIT",
   "dependencies": {
