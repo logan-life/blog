@@ -6,6 +6,11 @@ const getAllPosts = (collectionApi) => {
   .reverse()
 }
 
+const getAllTILs = (collectionApi) => {
+  return collectionApi.getFilteredByGlob('./src/til/*.md')
+  .reverse()
+}
+
 const getCategoryList = (collectionApi) => {
   const catPages = []
   let categories = []
@@ -32,6 +37,32 @@ const getCategoryList = (collectionApi) => {
   return catPages
 }
 
+const getTopicList = (collectionApi) => {
+  const topicPages = []
+  let topics = []
+  const TILs = collectionApi.getFilteredByGlob('./src/til/*.md')
+
+  TILs.map((item) => {
+    topics.push(item.data.topic)
+  })
+
+  topics = topics.sort(sortAlphabetically)
+  const temp = [...new Set(topics)]
+
+  temp.forEach((topic) => {
+    const slug = strToSlug(topic);
+
+    if(slug !== 'in-the-spotlight') {
+      topicPages.push({
+        'key': slug,
+        'name': topic
+      })
+    }
+  })
+
+  return topicPages
+}
+
 const getCategorisedPosts = (collectionApi) => {
   const categorisedPosts = {}
 
@@ -54,10 +85,35 @@ const getCategorisedPosts = (collectionApi) => {
   return categorisedPosts
 }
 
+const getTopifiedTILs = (collectionApi) => {
+  const topifiedTILs = {}
+  
+  collectionApi.getFilteredByGlob('./src/til/*.md').forEach(item => {
+    const topic = item.data.topic
+
+    // Ignore the ones without a topic
+    if (typeof topic !== 'string')
+    return
+
+    const slug = strToSlug(topic)
+
+    if (Array.isArray(topifiedTILs[slug])) {
+      topifiedTILs[slug].push(item)
+    } else {
+      topifiedTILs[slug] = [item]
+    }
+  })
+
+  return topifiedTILs
+}
+
 module.exports = {
   getAllPosts,
+  getAllTILs,
   getCategoryList,
-  getCategorisedPosts
+  getTopicList,
+  getCategorisedPosts,
+  getTopifiedTILs
 }
 
 

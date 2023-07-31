@@ -1,0 +1,17 @@
+---
+layout: page
+title: "TIL"
+eleventyNavigation:
+    key: TIL
+    order: 2
+pagination:
+  data: collections.til
+  size: 10
+  alias: tils
+---
+
+<h1>{{ title }}</h1>
+{% include "./_includes/components/topicNav.njk" %}
+<p>Recent TILs</p>
+
+{% include "./_includes/components/tilList.njk" %}

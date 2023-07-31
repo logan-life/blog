@@ -3,8 +3,11 @@ const pluginRss = require('@11ty/eleventy-plugin-rss')
 
 const { 
   getAllPosts, 
+  getAllTILs,
   getCategoryList,
-  getCategorisedPosts 
+  getTopicList,
+  getCategorisedPosts,
+  getTopifiedTILs
 } = require('./config/collections')
 
 const { 
@@ -46,14 +49,18 @@ module.exports = function(eleventyConfig) {
   /*=================*/
   eleventyConfig.addLayoutAlias('page', 'layouts/page')
   eleventyConfig.addLayoutAlias('article', 'layouts/article')
+  eleventyConfig.addLayoutAlias('til', 'layouts/til')
 
 
   /*=================*/
   /*   Collections   */
   /*=================*/
   eleventyConfig.addCollection('blog', getAllPosts)
+  eleventyConfig.addCollection('til', getAllTILs)
   eleventyConfig.addCollection('categoryList', getCategoryList)
+  eleventyConfig.addCollection('topicList', getTopicList)
   eleventyConfig.addCollection('categorisedPosts', getCategorisedPosts)
+  eleventyConfig.addCollection('topifiedTILs', getTopifiedTILs)
 
   
   /*=================*/

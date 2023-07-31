@@ -1,0 +1,17 @@
+---
+layout: page
+pagination:
+  data: collections.topicList
+  size: 1
+  alias: top
+permalink: "/til/{{ top.key }}/"
+eleventyComputed:
+  title: TILs related to topic "{{ top.name }}"
+---
+
+
+<h1>{{ title }}</h1>
+
+{% include "./_includes/components/topicNav.njk" %}
+{% set topics = collections.topifiedTILs[top.key] | reverse %}
+{% include "./_includes/components/tilList.njk" %}
