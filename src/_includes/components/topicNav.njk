@@ -9,7 +9,7 @@
           >all</a>
     </li>
     {%- for topic in topics %}
-    {% set topicUrl = ["/topic/", topic.key, "/" ] |  join %}
+    {% set topicUrl = ["/til/", topic.key, "/" ] |  join %}
     <li class="category__link {{ ' active' if page.url == topicUrl }}">
       <a href="{{ topicUrl }}"
       {{ "aria-current" if page.url == topicUrl }}>

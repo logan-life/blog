@@ -2,7 +2,7 @@
 layout: til
 title: TIL how to make a TIL section
 date: 2023-07-31
-topic: "topic1"
+topic: "test"
 ---
 
 TILs are fun
