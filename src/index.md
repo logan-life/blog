@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pageLayout
 eleventyNavigation:
   key: home
   order: 1

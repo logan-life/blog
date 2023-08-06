@@ -1,5 +1,5 @@
 ---
-layout: til
+layout: tilLayout
 title: How to make a TIL section
 date: 2023-07-31
 topic: "11ty"
