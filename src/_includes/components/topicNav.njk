@@ -1,6 +1,6 @@
 {% set topics =  collections.topicList %}
 <nav role="navigation" aria-label="category navigation" >
-  <span>Filter TILs by category:</span>
+  <span>Filter TILs by topic:</span>
   <ul>
     <li class="category__link {{ ' active' if page.url == '/til/'}}">
       <a class="category__link" 
@@ -9,10 +9,10 @@
           >all</a>
     </li>
     {%- for topic in topics %}
-    {% set topicUrl = ["/til/", topic.key, "/" ] |  join %}
-    <li class="category__link {{ ' active' if page.url == topicUrl }}">
-      <a href="{{ topicUrl }}"
-      {{ "aria-current" if page.url == topicUrl }}>
+    {% set topUrl = ["/til/", topic.key, "/" ] |  join %}
+    <li class="category__link {{ ' active' if page.url == topUrl }}">
+      <a href="{{ topUrl }}"
+      {{ "aria-current" if page.url == topUrl }}>
         {{ topic.key }}
       </a>
     </li>
