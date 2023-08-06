@@ -19,3 +19,9 @@ To build
 ```zsh
 npm run build
 ```
+
+### how to use image shortcode reference
+
+```
+{% image {src: "https://images.unsplash.com/photo-1555066931-4365d14bab8c", alt: "A laptop with some lines of code on the screen", className: "image", widths: [300, 600] } %}
+```
