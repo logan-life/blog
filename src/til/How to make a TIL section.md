@@ -17,8 +17,12 @@ I decided to avoid re-using the components and collections used for blogging to 
 
 New files required:
 
-- `til.njk` - the top level template for the TIL section at `/til/`. Pulls data from `collections.til` and passes it to the `til-list.njk` component.
-- `topic.njk` - the template for the topic pages at `/til/{some topic}/`. Sets the `tils` object to the relevant topic and passes it to the `tilList.njk` component.
-- `tilList.njk` - uses whatever data is stored in the `tils` object and displays it in a list.
-- `topicNav.njk` - a component to display the list of topics and links to the topic pages for each.
-- `tilLayout.njk` - a component to display the TIL content. This is the same as the `articleLayout.njk` component used for blog posts, but with the updated permalink structures.
+- **til.njk** - the top level template for the TIL section at `/til/`. Pulls data from `collections.til` and passes it to the `til-list.njk` component.
+
+- **topic.njk** - the template for the topic pages at `/til/{some topic}/`. Sets the `tils` object to the relevant topic and passes it to the `tilList.njk` component.
+
+- **tilList.njk** - uses whatever data is stored in the `tils` object and displays it in a list.
+
+- **topicNav.njk** - a component to display the list of topics and links to the topic pages for each.
+
+- **tilLayout.njk** - a component to display the TIL content. This is the same as the `articleLayout.njk` component used for blog posts, but with the updated permalink structures.
