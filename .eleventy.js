@@ -47,9 +47,10 @@ module.exports = function(eleventyConfig) {
   /*=================*/
   /*     Layouts     */
   /*=================*/
-  eleventyConfig.addLayoutAlias('page', 'layouts/page')
-  eleventyConfig.addLayoutAlias('article', 'layouts/article')
-  eleventyConfig.addLayoutAlias('til', 'layouts/til')
+  // no longer using aliased layouts, instead pointing the config to the layouts folder in return function below
+  // eleventyConfig.addLayoutAlias('page', 'layouts/page')
+  // eleventyConfig.addLayoutAlias('article', 'layouts/article')
+  // eleventyConfig.addLayoutAlias('til', 'layouts/til')
 
 
   /*=================*/
@@ -81,7 +82,8 @@ module.exports = function(eleventyConfig) {
       input: 'src',
       output: '_site',
       includes: '_includes',
-      data: '_data'
+      data: '_data',
+      layouts: '_includes/layouts'
     },
     markdownTemplateEngine: 'njk'
   }
