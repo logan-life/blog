@@ -1,11 +1,15 @@
-$main-font: 'Menlo', sans-serif;
-$accent-font: 'Helvetica Now', sans-serif;
+$main-font: 'Georgia', sans-serif;
+$accent-font: 'Helvetica', sans-serif;
+$mono-font: 'Monaco', monospace;
+
 
 /* Colours */
 // based on Solarized Light
 $light-shade: #eee8d5;
 $dark-shade: #063642;
 $accent-shade:#d33682;
+$code-background-shade: #f9f2f4;
+$code-text-shade: #c7254e;
 
 /*========================================*/
 
