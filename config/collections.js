@@ -3,12 +3,11 @@ const slugify = require('slugify')
 /* Creating a collection containing all blogposts by filtering based on folder and filetype */
 const getAllPosts = (collectionApi) => {
   return collectionApi.getFilteredByGlob('./src/blog/*.md')
-  .reverse()
 }
 
 const getAllTILs = (collectionApi) => {
   return collectionApi.getFilteredByGlob('./src/til/*.md')
-  .reverse()
+
 }
 
 const getCategoryList = (collectionApi) => {
