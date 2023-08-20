@@ -11,6 +11,7 @@ const {
 } = require("./config/collections");
 
 const { readableDate } = require("./config/filters");
+const { md } = require("./config/filters");
 
 const { imageShortcode } = require("./config/shortcodes");
 
@@ -61,6 +62,7 @@ module.exports = function (eleventyConfig) {
   /*     Filters     */
   /*=================*/
   eleventyConfig.addFilter("readableDate", readableDate);
+  eleventyConfig.addFilter("md", md);
 
   /*=================*/
   /*    shortcodes   */

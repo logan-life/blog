@@ -3,11 +3,10 @@ layout: articleLayout
 title: Book - Atlas of the Heart by Brené Brown
 date: 2023-08-15
 category: "Wellness"
+excerpt: "When *Atlas of the Heart* came up in conversation with my friend Hannah I was immediately hooked by the premise."
 ---
 
 I do not read a ton of non-fiction literature generally and I can count the number of self-help psychology books I've read on two hands. Yet when _Atlas of the Heart_ came up in conversation with my friend Hannah I was immediately hooked by the premise.
-
-<!-- excerpt -->
 
 Brown says:
 

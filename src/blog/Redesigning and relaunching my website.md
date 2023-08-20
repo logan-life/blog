@@ -3,10 +3,10 @@ layout: articleLayout
 title: Redesigning and relaunching my website
 date: 2023-08-08
 category: "Systems"
+excerpt: "I want a place to share what I'm working on, and endless scroll social media platforms do not spark joy. So here we are!"
 ---
 
 Yep, this is a blog launch announcement. And yep, it is 2023 and the blog-as-format is pretty dead. But I want a place to share what I'm working on, and endless scroll social media platforms do not spark joy. So here we are!
-<!-- excerpt -->
 
 The primary purpose of my website has been to showcase my projects and CV to potential employers. This was critical when I was switching careers from restaurants to tech in the middle of a pandemic. I wanted to make sure that I was putting my best foot forward.
 
