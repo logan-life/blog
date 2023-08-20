@@ -30,7 +30,22 @@ _Atlas of the Heart_ is a deceptively simple book. It isn't very long, and the w
 
 The result is the following collection of thirteen markdown documents, each one corresponding to a chapter in the book. I use these as references during times of heightened emotion to continue building my emotional vocabulary and upgrading the resolution of my internal sensors.
 
-<!-- link to markdown files which are saved in src/assets/files/atlas-of-the-heart-notes -->
+<!-- links to all the notes stored in files/atlas-of-the-heart-notes -->
 
-- [Test Download 1](/assets/files/test.md)
-  <a href="/assets/files/test.md" download> Download </a>
+**Atlas of the Heart Chapter Notes**
+
+_each link is a direct download of the markdown file_
+
+1. <a href="/files/atlas-of-the-heart-notes/1. Places We Go When Things Are Uncertain or Too Much.md" download>Places We Go When Things Are Uncertain or Too Much</a>
+2. <a href="/files/atlas-of-the-heart-notes/2. Places We Go When We Compare.md" download>Places We Go When We Compare</a>
+3. <a href="/files/atlas-of-the-heart-notes/3. Places We Go When Things Don’t Go As Planned.md" download>Places We Go When Things Don’t Go As Planned</a>
+4. <a href="/files/atlas-of-the-heart-notes/4. Places We Go When It’s Beyond Us.md" download>Places We Go When It's Beyond Us</a>
+5. <a href="/files/atlas-of-the-heart-notes/5. Places We Go When Things Aren’t What They Seem.md" download>Places We Go When Things Aren’t What They Seem</a>
+6. <a href="/files/atlas-of-the-heart-notes/6. Places We Go When We’re Hurting.md" download>Places We Go When We’re Hurting</a>
+7. <a href="/files/atlas-of-the-heart-notes/7. Places We Go With Others.md" download>Places We Go With Others</a>
+8. <a href="/files/atlas-of-the-heart-notes/8. Places We Go When We Fall Short.md" download>Places We Go When We Fall Short</a>
+9. <a href="/files/atlas-of-the-heart-notes/9. Places We Go When We Search For Connection.md" download>Places We Go When We Search For Connection</a>
+10. <a href="/files/atlas-of-the-heart-notes/10. Places We Go When The Heart Is Open.md" download>Places We Go When The Heart Is Open</a>
+11. <a href="/files/atlas-of-the-heart-notes/11. Places We Go When Life Is Good.md" download>Places We Go When Life Is Good</a>
+12. <a href="/files/atlas-of-the-heart-notes/12. Places We Go When We Feel Wronged.md" download>Places We Go When We Feel Wronged</a>
+13. <a href="/files/atlas-of-the-heart-notes/13. Place We Go To Self-Assess.md" download>Place We Go To Self-Assess</a>
