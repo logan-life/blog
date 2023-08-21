@@ -27,13 +27,11 @@ I live with ADHD and Autistic traits. I have often felt like I am unable to cont
 
 _Atlas of the Heart_ is a deceptively simple book. It isn't very long, and the writing is simple, clear, and straightforward. The revelations it contains, however, require time and space to digest. I listened to the audiobook once, then read through the physical book a couple of times. I found myself returning to particular sections as I strove to refine my emotional vocabulary. Ultimately I decided to put the book through my usual [Progressive Summarization](https://fortelabs.com/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/) process so that I could learn the material and have a reference, a Codex of Human Emotion.
 
-The result is the following collection of thirteen markdown documents, each one corresponding to a chapter in the book. I use these as references during times of heightened emotion to continue building my emotional vocabulary and upgrading the resolution of my internal sensors.
+The result is a collection of thirteen markdown documents, each one corresponding to a chapter in the book. I use these as references during times of heightened emotion to continue building my emotional vocabulary and upgrading the resolution of my internal sensors. In case these notes may be useful to others, I have made them available for download below.
 
 <!-- links to all the notes stored in files/atlas-of-the-heart-notes -->
 
-**Atlas of the Heart Chapter Notes**
-
-_each link is a direct download of the markdown file_
+### Atlas of the Heart Chapter Notes
 
 1. <a href="/files/atlas-of-the-heart-notes/1. Places We Go When Things Are Uncertain or Too Much.md" download>Places We Go When Things Are Uncertain or Too Much</a>
 2. <a href="/files/atlas-of-the-heart-notes/2. Places We Go When We Compare.md" download>Places We Go When We Compare</a>

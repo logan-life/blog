@@ -1,5 +1,8 @@
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const inclusiveLangPlugin = require("@11ty/eleventy-plugin-inclusive-language");
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+
 
 const {
   getAllPosts,
@@ -21,6 +24,10 @@ module.exports = function (eleventyConfig) {
   /*================================*/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(inclusiveLangPlugin);
+  eleventyConfig.addPlugin(syntaxHighlight);
+
+
 
   eleventyConfig.setFrontMatterParsingOptions({
     excerpt: true,
