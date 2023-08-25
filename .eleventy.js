@@ -2,6 +2,8 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const inclusiveLangPlugin = require("@11ty/eleventy-plugin-inclusive-language");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const embedEverything = require("eleventy-plugin-embed-everything");
+
 
 
 const {
@@ -26,6 +28,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(inclusiveLangPlugin);
   eleventyConfig.addPlugin(syntaxHighlight);
+  eleventyConfig.addPlugin(embedEverything);
 
 
 
