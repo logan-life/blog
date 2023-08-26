@@ -43,7 +43,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $accent-font;
   line-height: 140%;
-  margin: 0 0 0.7em 0;
+  margin: 1em 0 15px 0;
 }
 
 h1 {
@@ -58,7 +58,9 @@ a {
     color: $link-hvr-clr;
   }
 }
-
+h1 + p, h2 + p, h3 + p {
+	margin-top: 10px;
+	}
 p {
   max-width: 600px;
   + p {
@@ -155,20 +157,13 @@ nav ul li {
   margin-bottom: 1em;
 }
 
-// code {
-//   font-family: $mono-font;
-//   background-color: $code-background-shade;
-//   color: $code-text-shade;
-//   // padding: 0.2em 0.2em;
-//   // border-radius: 0.2em;
-// }
-
 li {
   margin-bottom: 1.5em;
 }
 
 blockquote {
-  margin: 0;
+  margin-top: 1em;
+  margin-bottom: 1em;
   padding-left: 1.4rem;
   position: relative;
 }

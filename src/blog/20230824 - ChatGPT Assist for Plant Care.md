@@ -20,7 +20,7 @@ I love houseplants and I want my plants to thrive. I decided that I wanted to ha
 
 ## Pruning
 
-## Propogation
+## Propagation
 
 ## Safety
 
@@ -44,22 +44,22 @@ Here's the plant files that ChatGPT spit out. I spent some time reviewing them a
 
 ### Houseplant Care Notes
 
-1. <a href="/files/houseplant-care-notes/Cholorophytum Comosum - Spider Plant.md" download>Cholorophytum Comosum - Spider Plant</a>
-2. <a href="/files/houseplant-care-notes/Chrysalidocarpus lutescens - Areca Palm.md" download>Chrysalidocarpus lutescens - Areca Palm</a>
-3. <a href="/files/houseplant-care-notes/Ficus benjamina - Weeping Fig.md" download>Ficus benjamina - Weeping Fig</a>
-4. <a href="/files/houseplant-care-notes/Fittonia albivenis - Forest Flame.md" download>Fittonia albivenis - Forest Flame</a>
-5. <a href="/files/houseplant-care-notes/Hylocereus Undatus - Dragon Fruit.md" download>Hylocereus Undatus - Dragon Fruit</a>
-6. <a href="/files/houseplant-care-notes/Kalanchoe blossfeldiana - Flaming Katy.md" download>Kalanchoe blossfeldiana - Flaming Katy</a>
-7. <a href="/files/houseplant-care-notes/Ocimum basilicum - Purple Basil.md" download>Ocimum basilicum - Purple Basil</a>
-8. <a href="/files/houseplant-care-notes/Ocimum basilicum - Sweet Basil.md" download>Ocimum basilicum - Sweet Basil</a>
-9. <a href="/files/houseplant-care-notes/Peperomia Obtusifolia - Crocodile Tears.md" download>Peperomia Obtusifolia - Crocodile Tears</a>
-10. <a href="/files/houseplant-care-notes/Sansevieria (Dracaena 2017) Trifasciata - Snake Plant.md" download>Sansevieria (Dracaena 2017) Trifasciata - Snake Plant</a>
-11. <a href="/files/houseplant-care-notes/Schefflera arboricola - Dwarf Umbrella Tree.md" download>Schefflera arboricola - Dwarf Umbrella Tree</a>
-12. <a href="/files/houseplant-care-notes/Sedum Tornado - Stonecrop.md" download>Sedum Tornado - Stonecrop</a>
-13. <a href="/files/houseplant-care-notes/Senecio Cephalophorus - Mountain Fire.md" download>Senecio Cephalophorus - Mountain Fire</a>
-14. <a href="/files/houseplant-care-notes/Sinocrassula Yunnanensis - Chinese Jade.md" download>Sinocrassula Yunnanensis - Chinese Jade</a>
-15. <a href="/files/houseplant-care-notes/Strelitzia Nicolai - Bird of Paradise.md" download>Strelitzia Nicolai - Bird of Paradise</a>
-16. <a href="/files/houseplant-care-notes/Alocasia Wentii - Hardy Elephant Ear.md" download>Alocasia Wentii - Hardy Elephant Ear</a>
+1. [Cholorophytum Comosum - Spider Plant](</blog/houseplant-care-notes/Cholorophytum Comosum - Spider Plant>)
+2. [Chrysalidocarpus lutescens - Areca Palm](</blog/houseplant-care-notes/Chrysalidocarpus lutescens - Areca Palm>)
+3. [Ficus benjamina - Weeping Fig](</blog/houseplant-care-notes/Ficus benjamina - Weeping Fig>)
+4. [Fittonia albivenis - Forest Flame](</blog/houseplant-care-notes/Fittonia albivenis - Forest Flame>)
+5. [Hylocereus Undatus - Dragon Fruit](</blog/houseplant-care-notes/Hylocereus Undatus - Dragon Fruit>)
+6. [Kalanchoe blossfeldiana - Flaming Katy](</blog/houseplant-care-notes/Kalanchoe blossfeldiana - Flaming Katy>)
+7. [Ocimum basilicum - Purple Basil](</blog/houseplant-care-notes/Ocimum basilicum - Purple Basil>)
+8. [Ocimum basilicum - Sweet Basil](</blog/houseplant-care-notes/Ocimum basilicum - Sweet Basil>)
+9. [Peperomia Obtusifolia - Crocodile Tears](</blog/houseplant-care-notes/Peperomia Obtusifolia - Crocodile Tears>)
+10. [Sansevieria (Dracaena 2017) Trifasciata - Snake Plant](</blog/houseplant-care-notes/Sansevieria (Dracaena 2017) Trifasciata - Snake Plant>)
+11. [Schefflera arboricola - Dwarf Umbrella Tree](</blog/houseplant-care-notes/Schefflera arboricola - Dwarf Umbrella Tree>)
+12. [Sedum Tornado - Stonecrop](</blog/houseplant-care-notes/Sedum Tornado - Stonecrop>)
+13. [Senecio Cephalophorus - Mountain Fire](</blog/houseplant-care-notes/Senecio Cephalophorus - Mountain Fire>)
+14. [Sinocrassula Yunnanensis - Chinese Jade](</blog/houseplant-care-notes/Sinocrassula Yunnanensis - Chinese Jade>)
+15. [Strelitzia Nicolai - Bird of Paradise](</blog/houseplant-care-notes/Strelitzia Nicolai - Bird of Paradise>)
+16. [Alocasia Wentii - Hardy Elephant Ear](</blog/houseplant-care-notes/Alocasia Wentii - Hardy Elephant Ear>)
 
 <!-- /files/houseplant-care-notes/Alocasia Wentii - Hardy Elephant Ear.md
 /files/houseplant-care-notes/Cholorophytum Comosum - Spider Plant.md

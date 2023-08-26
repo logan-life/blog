@@ -1,6 +1,6 @@
 {
   "title": "Logan Ayliffe",
-  "url": "https://eleventy-not-so-minimal-blog-starter.netlify.app",
+  "url": "https://www.loganayliffe.com/",
   "language": "en",
   "description": "Exploring ideas and sharing projects related to the web, climate change, neurodiversity, immigrant life, and more.",
   "author": {
@@ -8,5 +8,5 @@
     "email": "lmayliffe@gmail.com"
   },
   "image": "/assets/images/social-image.jpg",
-  "feedUrl": "https://eleventy-not-so-minimal-blog-starter.netlify.app/feed.xml"
+  "feedUrl": "https://www.loganayliffe.com/feed.xml"
 }
