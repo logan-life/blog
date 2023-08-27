@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pageLayout
 title: "Blog"
 eleventyNavigation:
     key: blog
@@ -12,6 +12,5 @@ pagination:
 
 <h1>{{ title }}</h1>
 {% include "./_includes/components/categoryNav.njk" %}
-<p>This view contains a list of all blogposts sorted from newest to oldest.</p>
-
+<p>Recent posts</p>
 {% include "./_includes/components/articleList.njk" %}
