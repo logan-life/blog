@@ -3,8 +3,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const inclusiveLangPlugin = require("@11ty/eleventy-plugin-inclusive-language");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const embedEverything = require("eleventy-plugin-embed-everything");
-
-
+const pluginPWA = require("eleventy-plugin-pwa-v2");
 
 const {
   getAllPosts,
@@ -29,8 +28,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(inclusiveLangPlugin);
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(embedEverything);
-
-
+  eleventyConfig.addPlugin(pluginPWA);
 
   eleventyConfig.setFrontMatterParsingOptions({
     excerpt: true,
