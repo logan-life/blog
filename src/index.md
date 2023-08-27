@@ -17,4 +17,4 @@ You can also find me on [Mastodon](https://hachyderm.io/@logan), [GitHub](https:
 
 <br>
 
-{% image {src: "src/assets/images/homepage-logan.jpeg", alt: "A sunny selfie of a smiling Logan in a black knit cap and grey hoodie with green grass and a blue lake in the background", className: "image", widths: [350] } %}
+{% image {src: "src/assets/images/homepage-logan.jpeg", alt: "I am looking at the camera and smiling. I amn wearing a black t-shirt and the straps of my black backpack are visible. In the background are sunny green trees and a walking path.", className: "image", widths: [350] } %}
