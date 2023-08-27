@@ -1,6 +1,6 @@
 # Logan Ayliffe's BLog
 
-The code that runs my blog. Based on the [eleventy-not-so-minimal-blog-starter](https://github.com/Mangamaui/eleventy-not-so-minimal-blog-starter)
+The code that runs [my blog](https://loganayliffe.com). Based on the [eleventy-not-so-minimal-blog-starter](https://github.com/Mangamaui/eleventy-not-so-minimal-blog-starter)
 
 To run:
 
