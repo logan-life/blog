@@ -2,7 +2,7 @@
 layout: articleLayout
 title: Dad Visit 2023 Draft Trip Outline
 date: 2023-08-31
-category: "Travel"
+category: ""
 excerpt: ""
 eleventyExcludeFromCollections: true
 ---
