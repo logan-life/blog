@@ -3,7 +3,7 @@ layout: articleLayout
 title: Sexy Webcomics That Are Great, Part One [nsfw]
 date: 2023-08-25
 category: "Leisure"
-excerpt: "I only recently discovered the joy of erotic webcomics. Here are the first two that I have really enjoyeed."
+excerpt: "I only recently discovered the joy of erotic webcomics. Here are the first two that I have really enjoyed."
 ---
 ***Familiar*** by Jude (a.k.a. soushiyo) is a delightfully gentle and sweet erotic comic about a witch and a soft-domination expert familiar who shows up to help her out in a time of transition. The art is really lovely, and the ethos of the characters and the story is very wholesome. I'm really glad that this is the first erotic webcomic I've read, because it's a great introduction to the genre. It has a lot of sex, obviously, but it doesn't get too intense or hardcore. Great for a beginner.
 
