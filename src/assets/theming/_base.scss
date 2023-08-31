@@ -177,3 +177,15 @@ blockquote::before {
   border-radius: 2px / 4px;
 }
 
+table :is(td, th) {
+  border: 1px solid black;
+  padding: 0.3em;
+}
+
+tr:nth-child(even) {
+  // make background color = $accent-shade with 20% opacity
+  background-color: rgba(211, 54, 130, 0.2);
+
+
+}
+
