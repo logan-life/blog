@@ -26,6 +26,8 @@ eleventyExcludeFromCollections: true
   - Cafe that sits right on the heathland, also has a playground for kids and a bunch of weird animals for some reason. Albino wallabies!
 - [Atlas Obscura - 66 Cool, Hidden, and Unusual Things to Do in Amsterdam, Netherlands](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands)
 - [Atlas Obscura - 311 Cool, Hidden, and Unusual Things to Do in the Netherlands](https://www.atlasobscura.com/things-to-do/netherlands)
+- [Amsterdam Bos](https://www.amsterdamsebos.nl/)
+  - Huge park in Amsterdam, has a working farm and a ton of nature stuff.
 
 ## Maps
 
