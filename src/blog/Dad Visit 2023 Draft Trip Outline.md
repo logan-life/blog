@@ -14,6 +14,8 @@ eleventyExcludeFromCollections: true
 - [Bastion Hotel Hilversum](https://www.bastionhotels.com/nl-nl/hotels/hotel-bussum)
 - [Bagels and Beans Bussum - English Menu](https://www.bagelsbeans.nl/nieuw/wp-content/uploads/2023/01/Terrasmenu_2023_Engels.pdf)
 - [The Breakfast Club Bussum - English Menu (scroll down)](https://thebreakfastclub.nl/locatie/bussum/)
+- [11 O Coffee Bussum](https://www.11ocoffee.nl/11ocoffee-menu/)
+  - Looks like this place has coffee and green healthy smoothies too.
 - [Rijksmuseum Tickets](https://www.tiqets.com/en/amsterdam-attractions-c75061/tickets-for-rijksmuseum-skip-the-ticket-line-p703796/?selected_date=2023-09-28&selected_timeslot_id=4298500)
   - Best to go early morning or late afternoon.
 - [Canal Boat Rental Site](https://booking.sloepdelen.nl/en/book/where-when?location=12&date=2023-09-29&onlyLocations=1,12,11)
