@@ -7,6 +7,9 @@ excerpt: ""
 eleventyExcludeFromCollections: true
 ---
 
+<!-- http://localhost:8080/blog/dad-visit-2023-trip-info/ -->
+<!-- https://loganayliffe.com/blog/dad-visit-2023-trip-info/ -->
+
 Note to self - take lots of pictures!
 
 | Date             | Stuff!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
