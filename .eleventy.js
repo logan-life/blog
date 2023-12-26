@@ -4,8 +4,7 @@ const inclusiveLangPlugin = require("@11ty/eleventy-plugin-inclusive-language");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const embedEverything = require("eleventy-plugin-embed-everything");
 const pluginPWA = require("eleventy-plugin-pwa-v2");
-const metagen = require('eleventy-plugin-metagen');
-
+const metagen = require("eleventy-plugin-metagen");
 
 const {
   getAllPosts,
@@ -20,6 +19,7 @@ const { readableDate } = require("./config/filters");
 const { md } = require("./config/filters");
 
 const { imageShortcode } = require("./config/shortcodes");
+const { videoShortcode } = require("./config/shortcodes");
 
 module.exports = function (eleventyConfig) {
   /*================================*/
@@ -32,7 +32,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(embedEverything);
   eleventyConfig.addPlugin(pluginPWA);
   eleventyConfig.addPlugin(metagen);
-
 
   eleventyConfig.setFrontMatterParsingOptions({
     excerpt: true,
@@ -80,6 +79,7 @@ module.exports = function (eleventyConfig) {
   /*    shortcodes   */
   /*=================*/
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+  eleventyConfig.addNunjucksAsyncShortcode("video", videoShortcode);
 
   return {
     dir: {
