@@ -1,7 +1,6 @@
 ---
 layout: articleLayout
 title: Photos and Videos from Dad Visit 2023
-date: 2023-12-26
 category: "connection"
 excerpt: "My father came to visit my wife and I in the Netherlands in September of 2023 for my 40th birthday. Here's some photos and videos from the trip."
 ---

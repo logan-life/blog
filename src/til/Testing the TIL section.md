@@ -1,11 +1,10 @@
 ---
 layout: tilLayout
 title: Testing the TIL section
-date: 2023-12-27
 topic: "testing"
 ---
 
-This is a test TIL post, and this sentence is the excerpt. This post will be deleted.
+This is a test TIL post, and this sentence is the excerpt. This post will be deleted once the test is complete.
 
 <!-- excerpt -->
 

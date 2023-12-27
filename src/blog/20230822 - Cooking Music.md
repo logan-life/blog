@@ -1,7 +1,6 @@
 ---
 layout: articleLayout
 title: Cooking Music
-date: 2023-08-22
 category: "leisure"
 excerpt: "My spouse and I cook just about every single meal we eat. Here's what we listen to while cooking."
 ---

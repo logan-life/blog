@@ -1,14 +1,14 @@
 ---
 layout: tilLayout
 title: How to make gifs from screen recordings using ffmpeg
-date: 2023-08-08
 topic: "ffmpeg"
 ---
+
 Gifs can be a helpful way of supplementing documentation with visual examples. Here’s a workflow for doing so using MacOS and ffmpeg.
 
 <!-- excerpt -->
 
-***
+---
 
 - Install ffmpeg with homebrew
 

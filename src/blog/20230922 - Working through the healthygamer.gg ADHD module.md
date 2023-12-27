@@ -1,7 +1,6 @@
 ---
 layout: articleLayout
 title: Working through the healthygamer.gg ADHD module
-date: 2023-09-22
 category: "wellness"
 excerpt: "I recently finished making my way through the healthygamer.gg ADHD module. Some thoughts on the experience."
 ---

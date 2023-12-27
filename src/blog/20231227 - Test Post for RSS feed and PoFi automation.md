@@ -1,7 +1,6 @@
 ---
 layout: articleLayout
 title: Test Post for RSS feed and PoFi automation
-date: 2023-12-27
 category: "systems"
 ---
 

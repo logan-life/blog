@@ -1,11 +1,8 @@
 ---
 layout: tilLayout
 title: Working with base64 encoded java key stores and x509 certificates
-date: 2023-09-22
 topic: "java"
 ---
-
-
 
 Some helpful commands for working with base64 encoded java key stores and x509 certificates. <!-- excerpt -->
 

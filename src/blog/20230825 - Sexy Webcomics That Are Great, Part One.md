@@ -1,7 +1,6 @@
 ---
 layout: articleLayout
 title: Sexy Webcomics That Are Great, Part One [nsfw]
-date: 2023-08-25
 category: "leisure"
 excerpt: "I only recently discovered the joy of erotic webcomics. Here are the first two that I have really enjoyed."
 ---
