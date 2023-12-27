@@ -5,7 +5,7 @@ date: 2023-12-27
 topic: "testing"
 ---
 
-This is a test TIL post, and this sentence is the excerpt.
+This is a test TIL post, and this sentence is the excerpt. This post will be deleted.
 
 <!-- excerpt -->
 

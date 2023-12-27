@@ -5,7 +5,7 @@ date: 2023-12-27
 category: "systems"
 ---
 
-This is a test post for the RSS feed and PoFi automation, and this sentence is the excerpt.
+This is a test post for the RSS feed and PoFi automation, and this sentence is the excerpt. This post will be deleted.
 
 <!-- excerpt -->
 
