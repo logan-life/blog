@@ -17,6 +17,7 @@ const {
 
 const { readableDate } = require("./config/filters");
 const { md } = require("./config/filters");
+const { permalinkDate } = require("./config/filters");
 
 const { imageShortcode } = require("./config/shortcodes");
 const { videoShortcode } = require("./config/shortcodes");
@@ -74,6 +75,7 @@ module.exports = function (eleventyConfig) {
   /*=================*/
   eleventyConfig.addFilter("readableDate", readableDate);
   eleventyConfig.addFilter("md", md);
+  eleventyConfig.addFilter("permalinkDate", permalinkDate);
 
   /*=================*/
   /*    shortcodes   */

@@ -9,6 +9,12 @@ const readableDate = (dateObj) => {
     .toLocaleString(DateTime.DATE_FULL);
 };
 
+const permalinkDate = (dateObj) => {
+  return DateTime.fromJSDate(dateObj, {
+    zone: "Europe/Amsterdam",
+  }).toFormat("yyyy/MM/dd");
+};
+
 const md = (content) => {
   return markdownIt({ html: true }).render(content);
 };
@@ -16,4 +22,5 @@ const md = (content) => {
 module.exports = {
   readableDate,
   md,
+  permalinkDate,
 };
