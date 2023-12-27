@@ -2,7 +2,7 @@
 layout: articleLayout
 title: Cooking Music
 date: 2023-08-22
-category: "Leisure"
+category: "leisure"
 excerpt: "My spouse and I cook just about every single meal we eat. Here's what we listen to while cooking."
 ---
 
@@ -14,6 +14,6 @@ Here's the playlist:
 
 https://open.spotify.com/playlist/0tInC5mrhNuIl4ZkK1nGxy?si=ef99d774c4394d6a
 
-Also, I'd be remiss if I did not credit Hank Green's *Inexcusable Bops* playlist which has been one major source of inspiration for this playlist.
+Also, I'd be remiss if I did not credit Hank Green's _Inexcusable Bops_ playlist which has been one major source of inspiration for this playlist.
 
 https://open.spotify.com/playlist/1EsozxnoOIr5u6iMfmobfh?si=d68b1449eda4496f

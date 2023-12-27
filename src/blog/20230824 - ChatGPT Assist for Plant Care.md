@@ -2,7 +2,7 @@
 layout: articleLayout
 title: ChatGPT Assist for Plant Care
 date: 2023-08-24
-category: "Systems"
+category: "systems"
 excerpt: "How I used ChatGPT to help me take care of my plants."
 ---
 

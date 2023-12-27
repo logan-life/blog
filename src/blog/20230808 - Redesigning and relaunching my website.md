@@ -2,7 +2,7 @@
 layout: articleLayout
 title: Redesigning and relaunching loganayliffe.com
 date: 2023-08-08
-category: "Systems"
+category: "systems"
 excerpt: "I want a place to share what I'm working on, and endless scroll social media platforms do not spark joy. So here we are!"
 ---
 

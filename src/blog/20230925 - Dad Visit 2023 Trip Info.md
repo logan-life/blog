@@ -2,7 +2,7 @@
 layout: articleLayout
 title: Dad Visit 2023 Trip Info
 date: 2023-09-25
-category: "Connection"
+category: "connection"
 excerpt: ""
 eleventyExcludeFromCollections: true
 ---

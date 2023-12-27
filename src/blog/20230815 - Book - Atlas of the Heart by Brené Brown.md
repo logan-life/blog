@@ -2,7 +2,7 @@
 layout: articleLayout
 title: Book - Atlas of the Heart by Brené Brown
 date: 2023-08-15
-category: "Wellness"
+category: "wellness"
 excerpt: "When *Atlas of the Heart* came up in conversation with my friend Hannah I was immediately hooked by the premise."
 ---
 

@@ -2,9 +2,10 @@
 layout: articleLayout
 title: Working through the healthygamer.gg ADHD module
 date: 2023-09-22
-category: "Wellness"
+category: "wellness"
 excerpt: "I recently finished making my way through the healthygamer.gg ADHD module. Some thoughts on the experience."
 ---
+
 I first encountered [Dr. Alok Kanoija](https://www.healthygamer.gg/dr-alok-kanojia) (Dr. K in the common parlance of his audience) via his [YouTube channel](https://www.youtube.com/@HealthyGamerGG). I was immediately struck by his approach to mental health, which is to say that he's a psychiatrist who is also a gamer, and who talks about mental health issues in the context of gaming and gaming culture. I also really appreciated that he brings both his Western psychological training and his Eastern spiritual training to bear on his work. I've been watching his videos for a few months now, and I've found them to be very helpful and informative.
 
 Some links to videos that I found especially valuable:
