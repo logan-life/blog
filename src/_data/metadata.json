@@ -8,5 +8,14 @@
     "email": "lmayliffe@gmail.com"
   },
   "image": "/assets/images/social-image.jpg",
-  "feedUrl": "https://www.loganayliffe.com/feed.xml"
+  "blogFeed": {
+    "url": "https://www.loganayliffe.com/blog-feed.xml",
+    "title": "Logan Ayliffe Blog",
+    "subtitle": "The feed for my blog, wherein I explore ideas and share projects related to the web, climate change, neurodiversity, immigrant life, and more."
+  },
+  "tilFeed": {
+    "url": "https://www.loganayliffe.com/til-feed.xml",
+    "title": "Logan Ayliffe TIL",
+    "subtitle": "The feed for my TIL (Today I Learned) posts, wherein I share mostly work-related things I've learned."
+  }
 }
