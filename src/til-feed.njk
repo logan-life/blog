@@ -7,7 +7,7 @@ eleventyExcludeFromCollections: true
     <id>{{ metadata.tilFeed.url }}</id>
     <title>{{ metadata.tilFeed.title }}</title>
     <subtitle>{{metadata.tilFeed.subtitle}}</subtitle>
-    <updated>{{ collections.blog | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+    <updated>{{ collections.til | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
     <link href="{{ metadata.tilFeed.url }}" rel="self"/>
     <author>
         <name>{{ metadata.author.name }}</name>
@@ -15,17 +15,17 @@ eleventyExcludeFromCollections: true
     </author>
 
     {%- for article in collections.til | reverse -%}
-    {% set absolutePostUrl %}{{ article.url | url | absoluteUrl(metadata.url) }}{% endset %}
-    <entry>
-        <id>{{ absolutePostUrl }}</id>
-        <title>{{ article.data.title }}</title>
-        <updated>{{ article.date | dateToRfc3339 }}</updated>
-        <author>
-            <name>{{ metadata.author.name }}</name>
-            <uri>{{ metadata.url }}</uri>
-        </author>         
-        <content xml:lang="{{ metadata.language }}" type="html">{{ article.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
-        <link href="{{ absolutePostUrl }}" rel="alternate"/>
-    </entry>
+        {% set absolutePostUrl %}{{ article.url | url | absoluteUrl(metadata.url) }}{% endset %}
+        <entry>
+            <id>{{ absolutePostUrl }}</id>
+            <title>{{ article.data.title }}</title>
+            <updated>{{ article.date | dateToRfc3339 }}</updated>
+            <author>
+                <name>{{ metadata.author.name }}</name>
+                <uri>{{ metadata.url }}</uri>
+            </author>
+            <content xml:lang="{{ metadata.language }}" type="html">{{ article.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+            <link href="{{ absolutePostUrl }}" rel="alternate"/>
+        </entry>
     {%- endfor -%}
 </feed>
