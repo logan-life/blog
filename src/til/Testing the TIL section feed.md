@@ -1,8 +1,8 @@
 ---
 layout: tilLayout
-title: Testing the TIL section
+title: Testing the TIL section feed
 topic: "testing"
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 
 This is a test TIL post, and this sentence is the excerpt. This post will be deleted once the test is complete.

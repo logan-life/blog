@@ -1,8 +1,8 @@
 ---
 layout: articleLayout
-title: Test Post for RSS feed and PoFi automation
+title: A Test Post for RSS feed and PoFi automation
 category: "systems"
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 
 This is a test post for the RSS feed and PoFi automation, and this sentence is the excerpt. This post will be deleted.
