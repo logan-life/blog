@@ -1,12 +1,13 @@
 ---
 layout: pageLayout
-permalink: /til/{{ topic }}/{{date | permalinkDate}}/{{ title | slugify }}/
+permalink: /til/{{ topic }}/{{ title | slugify }}/
+date: git Created
 ---
 
 <article class="article">
   <h1>{{ title }}</h1>
   <small>
-    Published: <time>{{ date | readableDate }}</time>
+    Published: <time>{{ page.date | readableDate }}</time>
     <a class="category" href="/til/{{ topic }}">{{ topic }}</a>
   </small>
   {{ content | safe }}

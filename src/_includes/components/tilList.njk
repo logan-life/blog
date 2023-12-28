@@ -1,14 +1,16 @@
 <ul class="article__list">
-{% for til in tils | reverse %}
-  <li class="article__item">
-    <article class="article__preview">
-      <h2><a href="{{ til.url | url }}">{{ til.data.title }}</a></h2>
-      <p>{{ til.data.excerpt }}</p>
-      <small>
-        <time>{{ til.data.date | readableDate }}</time>
-        <a class="category" href="/til/{{ til.data.topic }}">{{ til.data.topic }}</a>
-      </small>
-    </article>
-  </li>
-{% endfor %}
+  {% for til in tils | reverse %}
+    <li class="article__item">
+      <article class="article__preview">
+        <h2>
+          <a href="{{ til.url | url }}">{{ til.data.title }}</a>
+        </h2>
+        <p>{{ til.data.excerpt }}</p>
+        <small>
+          <time>{{ til.date | readableDate }}</time>
+          <a class="category" href="/til/{{ til.data.topic }}">{{ til.data.topic }}</a>
+        </small>
+      </article>
+    </li>
+  {% endfor %}
 </ul>
