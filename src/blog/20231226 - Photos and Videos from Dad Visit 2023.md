@@ -2,7 +2,7 @@
 layout: articleLayout
 title: Photos and Videos from Dad Visit 2023
 category: "connection"
-excerpt: "My father came to visit my wife and I in the Netherlands in September of 2023 for my 40th birthday. Here's some photos and videos from the trip."
+excerpt: "My father came to visit me and my wife in the Netherlands in September of 2023 for my 40th birthday. Here's some photos and videos from the trip."
 ---
 
 My father traveled from Asheville, North Carolina, United States of America to the Netherlands to celebrate my 40th birthday and visit with me and my wife.
