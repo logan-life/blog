@@ -15,14 +15,14 @@ eleventyExcludeFromCollections: true
     </author>
 
     {%- for article in collections.til | reverse -%}
-        {% set absolutePostUrl %}{{ article.url | url | absoluteUrl(metadata.url) }}{% endset %}
+        {% set absolutePostUrl %}{{ article.url | url | absoluteUrl(metadata.baseUrl) }}{% endset %}
         <entry>
             <id>{{ absolutePostUrl }}</id>
             <title>{{ article.data.title }}</title>
             <updated>{{ article.date | dateToRfc3339 }}</updated>
             <author>
                 <name>{{ metadata.author.name }}</name>
-                <uri>{{ metadata.url }}</uri>
+                <uri>{{ metadata.baseUrl }}</uri>
             </author>
             <content xml:lang="{{ metadata.language }}" type="html">{{ article.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
             <link href="{{ absolutePostUrl }}" rel="alternate"/>

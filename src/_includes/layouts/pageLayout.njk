@@ -1,18 +1,23 @@
 <!doctype html>
-<html lang="{{ metadata.language }}">
+{# todo - make customer images per post work #}
+<html>
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>✨</text></svg>">
-    <title>{{ title or metadata.title }}</title>
-    {% include "../components/metadata.njk" %}
+    {% metagen
+    title = title or metadata.globalTitle,
+    desc = excerpt or metadata.globalDescription,
+    type = type or metadata.globalType,
+    img = image or metadata.globalImage,
+    img_alt = imageAlt or metadata.globalImageAlt,
+    url = page.url | url | absoluteUrl(metadata.baseUrl),
+    name = metadata.author.name,
+    generator = metadata.generator,
+    site_name = metadata.globalTitle,
+    twitter_card_type = metadata.twitterCardType,
+    twitter_handle = metadata.twitterHandle
+ %}
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌻</text></svg>">
     <script type="module" src="/assets/svg-icon-sprite.js"></script>
-    <link rel="stylesheet" href="{{'/assets/theme.css' | url }}" />
-    <script>
-  if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("/service-worker.js");
-  }
-</script>
+    <link rel="stylesheet" href="{{'/assets/theme.css' | url }}"/>
   </head>
 
   <body>

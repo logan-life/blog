@@ -15,17 +15,17 @@ eleventyExcludeFromCollections: true
     </author>
 
     {%- for article in collections.blog | reverse -%}
-    {% set absolutePostUrl %}{{ article.url | url | absoluteUrl(metadata.url) }}{% endset %}
-    <entry>
-        <id>{{ absolutePostUrl }}</id>
-        <title>{{ article.data.title }}</title>
-        <updated>{{ article.date | dateToRfc3339 }}</updated>
-        <author>
-            <name>{{ metadata.author.name }}</name>
-            <uri>{{ metadata.url }}</uri>
-        </author>         
-        <content xml:lang="{{ metadata.language }}" type="html">{{ article.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
-        <link href="{{ absolutePostUrl }}" rel="alternate"/>
-    </entry>
+        {% set absolutePostUrl %}{{ article.url | url | absoluteUrl(metadata.baseUrl) }}{% endset %}
+        <entry>
+            <id>{{ absolutePostUrl }}</id>
+            <title>{{ article.data.title }}</title>
+            <updated>{{ article.date | dateToRfc3339 }}</updated>
+            <author>
+                <name>{{ metadata.author.name }}</name>
+                <uri>{{ metadata.baseUrl }}</uri>
+            </author>
+            <content xml:lang="{{ metadata.language }}" type="html">{{ article.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+            <link href="{{ absolutePostUrl }}" rel="alternate"/>
+        </entry>
     {%- endfor -%}
 </feed>

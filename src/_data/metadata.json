@@ -1,13 +1,24 @@
 {
-  "title": "Logan Ayliffe",
-  "url": "https://www.loganayliffe.com/",
+  "globalTitle": "Logan Ayliffe",
+  "baseUrl": "https://www.loganayliffe.com/",
   "language": "en",
-  "description": "Exploring ideas and sharing projects related to the web, climate change, neurodiversity, immigrant life, and more.",
+  "locale": "en_US",
+  "generator": "eleventy",
+  "globalType": "website",
+  "site_name": "Logan Ayliffe",
+  "globalDescription": "Exploring ideas and sharing projects related to the web, climate change, neurodiversity, immigrant life, and more.",
   "author": {
     "name": "Logan Ayliffe",
     "email": "lmayliffe@gmail.com"
   },
-  "image": "/assets/images/social-image.jpg",
+  "globalImage": "https://www.loganayliffe.com//assets/images/social-image.jpg",
+  "globalImageAlt": "loganayliffe.com in white text in a green bubble. In the background are a variety of potted houseplants. ",
+  "globalImageType": "image/jpg",
+  "globalImageHeight": "680",
+  "globalImageWidth": "1300",
+  "twitterCardType": "summary_large_image",
+  "twitterHandle": "logan_ayliffe",
+
   "blogFeed": {
     "url": "https://www.loganayliffe.com/blog-feed.xml",
     "title": "Logan Ayliffe Blog",
@@ -17,5 +28,11 @@
     "url": "https://www.loganayliffe.com/til-feed.xml",
     "title": "Logan Ayliffe TIL",
     "subtitle": "The feed for my TIL (Today I Learned) posts, wherein I share mostly work-related things I've learned."
+  },
+  "blogMetadata": {
+    "articleType": "article"
+  },
+  "tilMetadata": {
+    "articleType": "article"
   }
 }

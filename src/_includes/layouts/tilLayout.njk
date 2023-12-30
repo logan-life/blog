@@ -2,6 +2,8 @@
 layout: pageLayout
 permalink: /til/{{ topic }}/{{ title | slugify }}/
 date: git Created
+eleventyComputed:
+  type: '{{metadata.tilMetadata.articleType}}'
 ---
 
 <article class="article">
