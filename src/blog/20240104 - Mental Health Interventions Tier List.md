@@ -9,7 +9,7 @@ In December of 2019, I was feeling the intense pressure of working two jobs full
 
 My doctor and I decided to try adding an anti-anxiety medication to my routine. Unfortunately, this ended up causing a permanent neurological condition called oromandibular dystonia, and I had to stop taking all medications. So I went from needing extra help to losing the help I was already getting.
 
-Enter March 2020, which you may remember as the very good month where nothing bad happened at all, hehe.
+Enter March 2020, which you may remember as the very good month where nothing bad happened at all. 🫠
 
 So I needed to find some new ways to try and help my brain out. The following is a near-exhaustive list of the mental health interventions I have tried, ranked by tier.
 
