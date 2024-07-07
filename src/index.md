@@ -7,9 +7,9 @@ eleventyNavigation:
 
 # Hi, I'm Logan Ayliffe
 
-I’m a software engineer currently based in the Netherlands.
+I’m a human currently based in The Netherlands.
 
-I’m passionate about building technical solutions to our climate crisis and elevating human welfare through social justice.
+I’m passionate about enabling Research and Education solutions to our climate crisis and elevating human welfare through social justice.
 
 I [blog](/blog) about stuff I'm into and projects I'm working on. I also write short, mostly work-related [TILs](/til).
 
