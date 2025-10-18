@@ -137,4 +137,4 @@ These are official or widely trusted resources:
 
 ---
 
-If you’re seriously considering the move and have specific questions, feel free to reach out — I’m happy to share what I can or point you toward the right resources. [Email](mailto:lmayliffe@gmail.com)] is the best route to reach me.
+If you’re seriously considering the move and have specific questions, feel free to reach out — I’m happy to share what I can or point you toward the right resources. [Email](mailto:lmayliffe@gmail.com) is the best route to reach me.
