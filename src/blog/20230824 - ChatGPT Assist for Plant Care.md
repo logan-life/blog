@@ -3,6 +3,8 @@ layout: articleLayout
 title: ChatGPT Assist for Plant Care
 category: "systems"
 excerpt: "How I used ChatGPT to help me take care of my plants."
+tags: ["hidden"]
+eleventyexcludefromcollections: true
 ---
 
 Large Language Models (LLMs) like ChatGPT have severe limitations and should be used with great caution. For certain tasks, they can save a huge amount of time. For an excellent overview of the current state of the art in LLMs, see Simon Willison's August 2023 talk [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/).
