@@ -22,7 +22,7 @@ I know of a few ways for Americans to move to the Netherlands. Some are much eas
 
 ### 1. Be Recruited by a Dutch Company (Highly Skilled Migrant Visa)
 
-If you can get hired by a Dutch company before*moving, they can sponsor your visa as a **Highly Skilled Migrant (kennismigrant)**.
+If you can get hired by a Dutch company before moving, they can sponsor your visa as a **Highly Skilled Migrant (kennismigrant)**.
 
 - The company must be a recognized sponsor with the Dutch Immigration and Naturalisation Service (IND).  
 - [IND: Highly skilled migrant permit](https://ind.nl/en/residence-permits/work/highly-skilled-migrant)
@@ -50,7 +50,8 @@ It gives you one year in the Netherlands to find a job without already being emp
 **Upsides:**
 
 - You can move first, then look for work.  
-- Your spouse or registered partner can usually join you -- but you have to show the IND that you have enough money in the bank to support the spouse for a year. When we did this, the amount was something like $20,000.00.
+- Your spouse or registered partner can usually join you -- but you have to show the IND that you have enough money in the bank to support the spouse for a year.
+- When we did this, the amount was something like $20,000.00.
 
 **Downsides:**
 
@@ -136,4 +137,4 @@ These are official or widely trusted resources:
 
 ---
 
-If you’re seriously considering the move and have specific questions, feel free to reach out — I’m happy to share what I can or point you toward the right resources. [Email[(mailto:lmayliffe@gmail.com)] is the best route to reach me.
+If you’re seriously considering the move and have specific questions, feel free to reach out — I’m happy to share what I can or point you toward the right resources. [Email](mailto:lmayliffe@gmail.com)] is the best route to reach me.
