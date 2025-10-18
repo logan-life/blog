@@ -1,6 +1,6 @@
 ---
 layout: articleLayout
-title: Moving from the U.S. to the Netherlands
+title: Moving from the USA to the Netherlands
 category: "immigration"
 excerpt: "I occasionally get messages with some version of this same question: 'Hey, I’m thinking about moving to the Netherlands. How did you do it? Was it hard? What’s it like for someone in tech?' This post is a short summary of my answers to this type of question."
 
