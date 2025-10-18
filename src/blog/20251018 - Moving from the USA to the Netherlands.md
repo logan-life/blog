@@ -10,7 +10,7 @@ I occasionally get messages with some version of this same question:
 
 > “Hey, I’m thinking about moving to the Netherlands. How did you do it? Was it hard? What’s it like for someone in tech?”
 
-This post is a short summary of my answers to this type of question. 
+This post is a short summary of my answers to this type of question.
 
 **Note: As you are no doubt aware, we live in chaotic times. The political attitudes regarding immigration are in flux. When in doubt, always consider information from the [IND](https://ind.nl/nl) to be leading.**
 
@@ -41,7 +41,7 @@ If you freelance or run your own business, the **Dutch-American Friendship Treat
 
 ### 3. The Zoekjaar (Orientation Year) Visa
 
-This is the path I took. The **zoekjaar** visa is for recent Masters or PhD graduates from top universities (including many in the U.S.) who want to look for work in the Netherlands.You can apply within **three years of earning a master’s or PhD** from an eligible university. 
+This is the path I took. The **zoekjaar** visa is for recent Masters or PhD graduates from top universities (including many in the U.S.) who want to look for work in the Netherlands.You can apply within **three years of earning a master’s or PhD** from an eligible university.
 
 - [Orientation year for highly educated persons](https://business.gov.nl/coming-to-the-netherlands/permits-and-visa/residence-permit-for-orientation-year/)
 
@@ -77,7 +77,7 @@ So:If you start your visa application abroad, finish it abroad. Don’t move to 
 
 ### The Tech Market
 
-Generally easier than in the U.S. — especially in software, data, and infrastructure roles. Many Dutch tech companies are used to hiring internationally. There is also a shortage of skilled tech workers in the Netherlands. 
+Generally easier than in the U.S. — especially in software, data, and infrastructure roles. Many Dutch tech companies are used to hiring internationally. There is also a shortage of skilled tech workers in the Netherlands.
 
 - **Pay:** Lower than U.S. tech salaries. Entry-level roles often start around €45–55K/year (~$50–60K).  
 - **Work-life balance:** Excellent. 36-hour workweeks are common, and “vacation” actually means vacation. I get 40 days of paid vacation per year, for example.
